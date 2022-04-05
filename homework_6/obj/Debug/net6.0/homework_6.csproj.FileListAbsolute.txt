@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/C# Homework/homework_6/bin/Debug/net6.0/homework_6
+/Users/romanas/Desktop/C# Homework/homework_6/bin/Debug/net6.0/homework_6.deps.json
+/Users/romanas/Desktop/C# Homework/homework_6/bin/Debug/net6.0/homework_6.runtimeconfig.json
+/Users/romanas/Desktop/C# Homework/homework_6/bin/Debug/net6.0/homework_6.dll
+/Users/romanas/Desktop/C# Homework/homework_6/bin/Debug/net6.0/homework_6.pdb
+/Users/romanas/Desktop/C# Homework/homework_6/obj/Debug/net6.0/homework_6.csproj.AssemblyReference.cache
+/Users/romanas/Desktop/C# Homework/homework_6/obj/Debug/net6.0/homework_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/C# Homework/homework_6/obj/Debug/net6.0/homework_6.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/C# Homework/homework_6/obj/Debug/net6.0/homework_6.AssemblyInfo.cs
+/Users/romanas/Desktop/C# Homework/homework_6/obj/Debug/net6.0/homework_6.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/C# Homework/homework_6/obj/Debug/net6.0/homework_6.dll
+/Users/romanas/Desktop/C# Homework/homework_6/obj/Debug/net6.0/refint/homework_6.dll
+/Users/romanas/Desktop/C# Homework/homework_6/obj/Debug/net6.0/homework_6.pdb
+/Users/romanas/Desktop/C# Homework/homework_6/obj/Debug/net6.0/homework_6.genruntimeconfig.cache
+/Users/romanas/Desktop/C# Homework/homework_6/obj/Debug/net6.0/ref/homework_6.dll
